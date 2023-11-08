@@ -5,30 +5,14 @@
 
 int main(int argc, char *argv[]) {
 	float esferaDia, Raio, Volume;
-	printf("diga o valor do di‚metro da esfera");
+	printf("diga o valor do di√¢metro da esfera");
 	scanf("%f", &esferaDia);
 	
 	 Raio= esferaDia/2;	
 	 Volume= (1.3333333*PI)*(Raio*Raio*Raio);
 	 
-	 printf("O volume da esfera È  %5f ", Volume);
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	 printf("O volume da esfera √©  %5f ", Volume);
 	
 	
 	return 0;
-	
 }
