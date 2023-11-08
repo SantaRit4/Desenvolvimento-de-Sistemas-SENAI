@@ -10,5 +10,5 @@ int main (){
 	printf("escreva a largura de Namekusei");
 	scanf("%f", &largura);
 	
-	printf("a área de Namekusei é %.0f",altura*largura);
+	printf("a Ã¡rea de Namekusei Ã© %.0f",altura*largura);
 }
